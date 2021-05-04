@@ -1,4 +1,4 @@
-# CDSS
+# PARSER TABLE GENERATOR
 Give a grammar text file 
 
 Install requirements
